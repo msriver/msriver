@@ -135,11 +135,11 @@ Building and maintaining scalable CRM solutions, integrations, and custom Salesf
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=msriver&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"/>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msriver&layout=compact&theme=transparent&hide_border=true"/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=msriver&theme=transparent&hide_border=true"/>
 
 </div>
 
